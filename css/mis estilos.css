@@ -1,0 +1,33 @@
+.estilo1{color:teal;font-family:algerian;font-size:28;}
+.divA
+{
+
+border:1px solid #98FB98;
+width:12%;
+height:79%;
+background:#98FB98;
+}
+
+.estilo2
+{color:black;font-family:arial;font-size:19;}
+
+.divB
+{
+font-family:arial;
+font-size:19;
+float:right;
+border:1px solid #FFDAB9;
+width:87%;
+height:100%;
+background:#FFDAB9;
+}
+.estilo3{color:#4B0082;font-family:lora;font-size:34;}
+
+.footer
+{
+color:blue;font-family:arial narrow;font-size:13;
+border:1px solid #98FB98;
+width:100%;
+height:10%;
+background:#98FB98;
+}
